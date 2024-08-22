@@ -38,6 +38,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@sanity/client": "^6.21.3",
 		"@tanstack/svelte-query": "^5.52.0"
 	}
 }
