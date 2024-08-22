@@ -1,7 +1,7 @@
 node_modules
 
 # Playwright
-./test_results/*
+./test_results
 
 # IDE/Text Editors
 ./.vs_code/*
@@ -25,3 +25,4 @@ Thumbs.db
 # Vite
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+test-results/.last-run.json
