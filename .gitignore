@@ -1,5 +1,11 @@
 node_modules
 
+# Playwright
+./test_results/*
+
+# IDE/Text Editors
+./.vs_code/*
+
 # Output
 .output
 .vercel
