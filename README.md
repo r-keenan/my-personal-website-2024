@@ -1,18 +1,10 @@
-# create-svelte
+# My Personal Website 2024
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+I created this site using SvelteKit. This was built to replace my Next.js website that was created in 2021. My previous website's repo can be found here: [My Personal Website 2021 repo](https://github.com/r-keenan/my-personal-website)
 
-## Creating a project
+You can find more out about SvelteKit by going here: [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+If you are unfamiliar with SvelteKit, and/or are unfamiliar with NPM, please see the instructions below on how to install the dependencies and run the code on your local machine.
 
 ## Developing
 
